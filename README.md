@@ -4,9 +4,7 @@ This project focuses on analyzing the Brazilian E-Commerce Public Dataset by Oli
 
 ## 📁 Project Structure
 data-analysis-project/
-
 │
-
 ├── data/
 
 │   ├── raw/                
