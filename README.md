@@ -4,33 +4,61 @@ This project focuses on analyzing the Brazilian E-Commerce Public Dataset by Oli
 
 ## 📁 Project Structure
 data-analysis-project/
+
 │
+
 ├── data/
+
 │   ├── raw/                
+
 │   │   └── olist_customers_dataset.csv
+
 │   │   └── olist_geolocation_dataset.csv
+
 │   │   └── olist_order_items_dataset.csv
+
 │   │   └── olist_orders_dataset.csv
+
 │   │   └── olist_products_dataset.csv
+
 │   │   └── product_category_name_translation.csv
+
 │   ├── processed/
+
 │   │   └── category_sales.csv
+
 │   │   └── cust_retention.csv
+
 │   │   └── customer_state.csv
+
 │   │   └── delivery_days.csv
+
 │   │   └── order_sales.csv
+
 │   │   └── state_sales.csv
+
 │
+
 ├── notebooks/
+
 │   ├── 01_ETL.ipynb
+
 │   └── 02_EDA.ipynb
+
 │
+
 ├── database/
+
 │   └── cleaned_data.db
+
 │
+
 ├── visualizations/
+
 │   └── powerbi_report.pbix
+
 │
+
 ├── README.md
 
 ## 📊 Project Overview
